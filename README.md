@@ -4,9 +4,10 @@ Artist, inventor, and technical researcher building public field notes on local 
 
 **Links**
 
+- Field notes / research: https://news.szt.link
 - Artist site: https://felipesztutman.com
-- szt.link: https://szt.link
 - AYA Studio: https://aya.cx
+- szt.link: https://szt.link
 - GitHub: https://github.com/sztlink
 
 Current public fronts:
