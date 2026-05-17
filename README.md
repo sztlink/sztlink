@@ -2,6 +2,13 @@
 
 Artist, inventor, and technical researcher building public field notes on local AI, memory, long-context systems, and systems for experience.
 
+**Links**
+
+- Artist site: https://felipesztutman.com
+- szt.link: https://szt.link
+- AYA Studio: https://aya.cx
+- GitHub: https://github.com/sztlink
+
 Current public fronts:
 
 - **Finding evidence is not using evidence** — long-context quality probes where the right chunk is present but does not drive the answer.  
@@ -14,6 +21,7 @@ Current public fronts:
   Repo: [`pi-ensemble`](https://github.com/sztlink/pi-ensemble)
 
 - **Felipe Sztutman artist site** — public artwork / context surface.  
+  Site: https://felipesztutman.com  
   Repo: [`felipesztutman.com`](https://github.com/sztlink/felipesztutman.com)
 
 Short thesis from the current long-context work:
@@ -23,9 +31,3 @@ Your model found the right chunk. Why did it still answer wrong?
 ```
 
 I use GitHub as a public research archive: field notes, reproducible probes, small tools, and material evidence. Some work is intentionally partial or synthetic; caveats travel with the artifacts.
-
-Links:
-
-- szt.link: https://szt.link
-- AYA Studio: https://aya.cx
-- Artist site: https://felipesztutman.com
